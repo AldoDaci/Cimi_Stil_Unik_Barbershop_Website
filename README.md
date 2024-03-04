@@ -1,36 +1,37 @@
 # Team Information
-## Team Name: [Your Team Name]
+## Team Name: [BarberBooking]
 
 ## Team Leader:
-- **Name:** [Team Leader's Name]
-- **GitHub Username:** [GitHub Username]
+- **Name:** [Aldo Daci]
+- **GitHub Username:** [AldoDaci]
 
 ## Team Members:
-1. [Member 1 Name] - GitHub: [GitHub Username]
-2. [Member 2 Name] - GitHub: [GitHub Username]
-3. [Member 3 Name] - GitHub: [GitHub Username]
-4. [Member 4 Name] - GitHub: [GitHub Username]
-5. [Member 5 Name] - GitHub: [GitHub Username]
+1. [Aldo Daci] - GitHub: [AldoDaci]
+2. [Klajdi Kastrati] - GitHub: [Klajdikastrati]
+3. [Sidita Dushaj] - GitHub: [Siditadushaj21]
+4. [Andrea Kasa] - GitHub: [andreakasa]
 
 # Project Details
 
-## Project Title: [Your Project Title]
+## Project Title: [BarberBooking]
 
 ## Problem Statement:
-[Clearly express the problem identified based on the need analysis.]
-
+[In todays fast-paced world, barbers and their clients often face challenges in scheduling appointments efficiently. Clients experience difficulties in finding available slots that match their schedules, while barbers struggle to manage their time and client flow effectively. This disconnect leads to lost business opportunities, customer dissatisfaction, and operational inefficiencies.]]
 ## Solution Proposed:
-[Provide a description of the solution you propose.]
+[BarberBooking is a comprehensive online scheduling software designed to bridge the gap between barbers and their clients. It offers an intuitive platform where clients can view available time slots, book appointments, and even select their preferred services in advance. For barbers, it provides a centralized management tool for appointments, client preferences, and service catalogues, enabling better time management and enhanced customer service.]
+
+
 
 ## Project Scope:
-- **Aim:** [Specify the aim of your project.]
+- **Aim:** [To develop a user-friendly, efficient online appointment scheduling software for barbers to enhance their service delivery and client satisfaction.]
 - **Main Objectives:**
-  1. [Objective 1]
-  2. [Objective 2]
-  3. ...
-
+  1. [To create an intuitive interface for clients to book, modify, or cancel appointments.]
+  2.[To enable barbers to manage their schedules, services, and client information seamlessly.]
+  3.[To integrate a notification system for appointment reminders and confirmations.]
+  4.[To provide a platform for clients to review services and for barbers to receive feedback.]
+  
 ## Application Description:
-[Provide a detailed description of your application, including its functionality, features, and any other relevant information.]
+[BarberBooking is a web-based application that offers a dual-interface for barbers and clients. For clients, it features a clean, easy-to-navigate UI where they can select services, choose their barber, view available slots, and book appointments. Clients can also manage their bookings and receive notifications. For barbers, the backend includes a calendar view of scheduled appointments, client management tools, service customization options, and analytics for business insights. The application supports multiple barber profiles, enabling barbershops with several staff members to manage their schedules individually.]
 
 # Roles and Tasks Distribution
 
@@ -38,15 +39,15 @@
 [Specify the main responsibilities and tasks assigned to the team leader.]
 
 ## Main Roles and Tasks:
-1. [Team Member 1] - [Role and Tasks Assigned]
-2. [Team Member 2] - [Role and Tasks Assigned]
-3. [Team Member 3] - [Role and Tasks Assigned]
-4. [Team Member 4] - [Role and Tasks Assigned]
-5. [Team Member 5] - [Role and Tasks Assigned]
+1. [Aldo Daci] - [Role and Tasks Assigned]
+2. [Klajdi Kastrati] - [Role and Tasks Assigned]
+3. [Sidita Dushaj] - [Role and Tasks Assigned]
+4. [Andrea kasa] - [Role and Tasks Assigned]
+
+
 
 # Deadline
 Submission Deadline: 20.03.2023, 23:59 hours.
 
 # Additional Notes
-[Include any additional notes or instructions for the submission.]
-
+[]
