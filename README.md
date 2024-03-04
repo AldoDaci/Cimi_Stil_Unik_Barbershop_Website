@@ -1,4 +1,4 @@
-# Team Information
+) # Team Information
 ## Team Name: [BarberBooking]
 
 ## Team Leader:
@@ -39,15 +39,13 @@
 [Specify the main responsibilities and tasks assigned to the team leader.]
 
 ## Main Roles and Tasks:
-1. [Aldo Daci] - [Role and Tasks Assigned]
-2. [Klajdi Kastrati] - [Role and Tasks Assigned]
-3. [Sidita Dushaj] - [Role and Tasks Assigned]
-4. [Andrea kasa] - [Role and Tasks Assigned]
+1. [Aldo Daci] – [Team Leader/Backend Developer]
+2. [Klajdi Kastrati] - [Full Stack Developer and Quality Assurance]
+3. [Sidita Dushaj] - [Frontend Developer and UX/UI Designer]
+4. [Andrea kasa] - [Quality assurance and Marketing&Costumer Relations]
 
 
 
 # Deadline
 Submission Deadline: 20.03.2023, 23:59 hours.
 
-# Additional Notes
-[]
